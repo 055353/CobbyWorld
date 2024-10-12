@@ -1352,3 +1352,498 @@
 [2024-10-12 13:15:09] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
 [2024-10-12 13:15:09] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
 [2024-10-12 13:15:09] [class-ss-page.php:119] Checking Content Identical:3c9d293b60aff72e6ae2c13fd5848565c0964d0c===. Value: FALSE
+[2024-10-12 13:15:09] [class-ss-fetch-urls-task.php:72] URL: http://localhost/cobbyWorld/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-hang.css
+[2024-10-12 13:15:09] [class-ss-task.php:58] [PAGES STATUS] Remaining:17; Total: 881
+[2024-10-12 13:15:09] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-10-12 13:15:09] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\PRINCE~1\AppData\Local\Temp/670a765da53bd-bxCz96.tmp
+[2024-10-12 13:15:09] [class-ss-page-handler.php:38] URL Prepared:http://localhost/cobbyWorld/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-hang.css?simply_static_page=5479
+[2024-10-12 13:15:09] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/cobbyWorld/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-hang.css?simply_static_page=5479
+[2024-10-12 13:15:09] [class-ss-url-fetcher.php:103] Filesize: 649 bytes
+[2024-10-12 13:15:09] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2024-10-12 13:15:09] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-hang.css
+[2024-10-12 13:15:09] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\PRINCE~1\AppData\Local\Temp/670a765da53bd-bxCz96.tmp to C:\xampp\htdocs\CobbyWorld/wp-content/uploads\simply-static\temp-files/simply-static-1-1728738804/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-hang.css
+[2024-10-12 13:15:09] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-10-12 13:15:09] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2024-10-12 13:15:09] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-10-12 13:15:09] [class-ss-page.php:119] Checking Content Identical:5eddc4aa30be2758dbda6546719de123b72b6a13===. Value: FALSE
+[2024-10-12 13:15:09] [class-ss-fetch-urls-task.php:72] URL: http://localhost/cobbyWorld/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-hang.min.css
+[2024-10-12 13:15:09] [class-ss-task.php:58] [PAGES STATUS] Remaining:16; Total: 881
+[2024-10-12 13:15:10] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-10-12 13:15:10] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\PRINCE~1\AppData\Local\Temp/670a765e01614-rrHBuu.tmp
+[2024-10-12 13:15:10] [class-ss-page-handler.php:38] URL Prepared:http://localhost/cobbyWorld/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-hang.min.css?simply_static_page=5480
+[2024-10-12 13:15:10] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/cobbyWorld/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-hang.min.css?simply_static_page=5480
+[2024-10-12 13:15:10] [class-ss-url-fetcher.php:103] Filesize: 568 bytes
+[2024-10-12 13:15:10] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2024-10-12 13:15:10] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-hang.min.css
+[2024-10-12 13:15:10] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\PRINCE~1\AppData\Local\Temp/670a765e01614-rrHBuu.tmp to C:\xampp\htdocs\CobbyWorld/wp-content/uploads\simply-static\temp-files/simply-static-1-1728738804/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-hang.min.css
+[2024-10-12 13:15:10] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-10-12 13:15:10] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2024-10-12 13:15:10] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-10-12 13:15:10] [class-ss-page.php:119] Checking Content Identical:825625676d3daa8eb845fd217b99e76bb2c0d6b0===. Value: FALSE
+[2024-10-12 13:15:10] [class-ss-fetch-urls-task.php:72] URL: http://localhost/cobbyWorld/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-pop.css
+[2024-10-12 13:15:10] [class-ss-task.php:58] [PAGES STATUS] Remaining:15; Total: 881
+[2024-10-12 13:15:10] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-10-12 13:15:10] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\PRINCE~1\AppData\Local\Temp/670a765e60402-EgRyZl.tmp
+[2024-10-12 13:15:10] [class-ss-page-handler.php:38] URL Prepared:http://localhost/cobbyWorld/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-pop.css?simply_static_page=5481
+[2024-10-12 13:15:10] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/cobbyWorld/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-pop.css?simply_static_page=5481
+[2024-10-12 13:15:10] [class-ss-url-fetcher.php:103] Filesize: 310 bytes
+[2024-10-12 13:15:10] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2024-10-12 13:15:10] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-pop.css
+[2024-10-12 13:15:10] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\PRINCE~1\AppData\Local\Temp/670a765e60402-EgRyZl.tmp to C:\xampp\htdocs\CobbyWorld/wp-content/uploads\simply-static\temp-files/simply-static-1-1728738804/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-pop.css
+[2024-10-12 13:15:10] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-10-12 13:15:10] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2024-10-12 13:15:10] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-10-12 13:15:10] [class-ss-page.php:119] Checking Content Identical:190bc2b9f9477d2456cb09e5d59aecadf35fef78===. Value: FALSE
+[2024-10-12 13:15:10] [class-ss-fetch-urls-task.php:72] URL: http://localhost/cobbyWorld/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-pop.min.css
+[2024-10-12 13:15:10] [class-ss-task.php:58] [PAGES STATUS] Remaining:14; Total: 881
+[2024-10-12 13:15:10] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-10-12 13:15:10] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\PRINCE~1\AppData\Local\Temp/670a765ea4c6f-VUpHhd.tmp
+[2024-10-12 13:15:10] [class-ss-page-handler.php:38] URL Prepared:http://localhost/cobbyWorld/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-pop.min.css?simply_static_page=5482
+[2024-10-12 13:15:10] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/cobbyWorld/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-pop.min.css?simply_static_page=5482
+[2024-10-12 13:15:10] [class-ss-url-fetcher.php:103] Filesize: 278 bytes
+[2024-10-12 13:15:10] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2024-10-12 13:15:10] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-pop.min.css
+[2024-10-12 13:15:10] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\PRINCE~1\AppData\Local\Temp/670a765ea4c6f-VUpHhd.tmp to C:\xampp\htdocs\CobbyWorld/wp-content/uploads\simply-static\temp-files/simply-static-1-1728738804/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-pop.min.css
+[2024-10-12 13:15:10] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-10-12 13:15:10] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2024-10-12 13:15:10] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-10-12 13:15:10] [class-ss-page.php:119] Checking Content Identical:26282eb881da456455354dcfae2a0226012c68c6===. Value: FALSE
+[2024-10-12 13:15:11] [class-ss-fetch-urls-task.php:72] URL: http://localhost/cobbyWorld/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-pulse-grow.css
+[2024-10-12 13:15:11] [class-ss-task.php:58] [PAGES STATUS] Remaining:13; Total: 881
+[2024-10-12 13:15:11] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-10-12 13:15:11] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\PRINCE~1\AppData\Local\Temp/670a765f3e6db-3J0eXH.tmp
+[2024-10-12 13:15:11] [class-ss-page-handler.php:38] URL Prepared:http://localhost/cobbyWorld/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-pulse-grow.css?simply_static_page=5483
+[2024-10-12 13:15:11] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/cobbyWorld/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-pulse-grow.css?simply_static_page=5483
+[2024-10-12 13:15:11] [class-ss-url-fetcher.php:103] Filesize: 384 bytes
+[2024-10-12 13:15:11] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2024-10-12 13:15:11] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-pulse-grow.css
+[2024-10-12 13:15:11] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\PRINCE~1\AppData\Local\Temp/670a765f3e6db-3J0eXH.tmp to C:\xampp\htdocs\CobbyWorld/wp-content/uploads\simply-static\temp-files/simply-static-1-1728738804/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-pulse-grow.css
+[2024-10-12 13:15:11] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-10-12 13:15:11] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2024-10-12 13:15:11] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-10-12 13:15:11] [class-ss-page.php:119] Checking Content Identical:017ac17dd81532a7fe73e695e0b2dd4850cf1bd0===. Value: FALSE
+[2024-10-12 13:15:11] [class-ss-fetch-urls-task.php:72] URL: http://localhost/cobbyWorld/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-pulse-grow.min.css
+[2024-10-12 13:15:11] [class-ss-task.php:58] [PAGES STATUS] Remaining:12; Total: 881
+[2024-10-12 13:15:11] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-10-12 13:15:11] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\PRINCE~1\AppData\Local\Temp/670a765f9d2a9-12vEXl.tmp
+[2024-10-12 13:15:11] [class-ss-page-handler.php:38] URL Prepared:http://localhost/cobbyWorld/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-pulse-grow.min.css?simply_static_page=5484
+[2024-10-12 13:15:11] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/cobbyWorld/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-pulse-grow.min.css?simply_static_page=5484
+[2024-10-12 13:15:11] [class-ss-url-fetcher.php:103] Filesize: 349 bytes
+[2024-10-12 13:15:11] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2024-10-12 13:15:11] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-pulse-grow.min.css
+[2024-10-12 13:15:11] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\PRINCE~1\AppData\Local\Temp/670a765f9d2a9-12vEXl.tmp to C:\xampp\htdocs\CobbyWorld/wp-content/uploads\simply-static\temp-files/simply-static-1-1728738804/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-pulse-grow.min.css
+[2024-10-12 13:15:11] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-10-12 13:15:11] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2024-10-12 13:15:11] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-10-12 13:15:11] [class-ss-page.php:119] Checking Content Identical:b33f41ce8735f667a40fa2d81c50a2bb10054b65===. Value: FALSE
+[2024-10-12 13:15:11] [class-ss-fetch-urls-task.php:72] URL: http://localhost/cobbyWorld/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-pulse-shrink.css
+[2024-10-12 13:15:11] [class-ss-task.php:58] [PAGES STATUS] Remaining:11; Total: 881
+[2024-10-12 13:15:12] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-10-12 13:15:12] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\PRINCE~1\AppData\Local\Temp/670a766035edf-E2cn6v.tmp
+[2024-10-12 13:15:12] [class-ss-page-handler.php:38] URL Prepared:http://localhost/cobbyWorld/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-pulse-shrink.css?simply_static_page=5485
+[2024-10-12 13:15:12] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/cobbyWorld/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-pulse-shrink.css?simply_static_page=5485
+[2024-10-12 13:15:12] [class-ss-url-fetcher.php:103] Filesize: 394 bytes
+[2024-10-12 13:15:12] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2024-10-12 13:15:12] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-pulse-shrink.css
+[2024-10-12 13:15:12] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\PRINCE~1\AppData\Local\Temp/670a766035edf-E2cn6v.tmp to C:\xampp\htdocs\CobbyWorld/wp-content/uploads\simply-static\temp-files/simply-static-1-1728738804/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-pulse-shrink.css
+[2024-10-12 13:15:12] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-10-12 13:15:12] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2024-10-12 13:15:12] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-10-12 13:15:12] [class-ss-page.php:119] Checking Content Identical:f9eb21dfbc669632c37d1666a24f03f99af2d1a5===. Value: FALSE
+[2024-10-12 13:15:12] [class-ss-fetch-urls-task.php:72] URL: http://localhost/cobbyWorld/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-pulse-shrink.min.css
+[2024-10-12 13:15:12] [class-ss-task.php:58] [PAGES STATUS] Remaining:10; Total: 881
+[2024-10-12 13:15:12] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-10-12 13:15:12] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\PRINCE~1\AppData\Local\Temp/670a7660ab277-vEtTM5.tmp
+[2024-10-12 13:15:12] [class-ss-page-handler.php:38] URL Prepared:http://localhost/cobbyWorld/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-pulse-shrink.min.css?simply_static_page=5486
+[2024-10-12 13:15:12] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/cobbyWorld/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-pulse-shrink.min.css?simply_static_page=5486
+[2024-10-12 13:15:12] [class-ss-url-fetcher.php:103] Filesize: 358 bytes
+[2024-10-12 13:15:12] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2024-10-12 13:15:12] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-pulse-shrink.min.css
+[2024-10-12 13:15:12] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\PRINCE~1\AppData\Local\Temp/670a7660ab277-vEtTM5.tmp to C:\xampp\htdocs\CobbyWorld/wp-content/uploads\simply-static\temp-files/simply-static-1-1728738804/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-pulse-shrink.min.css
+[2024-10-12 13:15:12] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-10-12 13:15:12] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2024-10-12 13:15:12] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-10-12 13:15:13] [class-ss-page.php:119] Checking Content Identical:2f497c34ef82731df3cd8e9f4ad97046faa4e881===. Value: FALSE
+[2024-10-12 13:15:13] [class-ss-fetch-urls-task.php:72] URL: http://localhost/cobbyWorld/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-pulse.css
+[2024-10-12 13:15:13] [class-ss-task.php:58] [PAGES STATUS] Remaining:9; Total: 881
+[2024-10-12 13:15:13] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-10-12 13:15:13] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\PRINCE~1\AppData\Local\Temp/670a76618cf65-0yYBYu.tmp
+[2024-10-12 13:15:13] [class-ss-page-handler.php:38] URL Prepared:http://localhost/cobbyWorld/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-pulse.css?simply_static_page=5487
+[2024-10-12 13:15:13] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/cobbyWorld/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-pulse.css?simply_static_page=5487
+[2024-10-12 13:15:13] [class-ss-url-fetcher.php:103] Filesize: 360 bytes
+[2024-10-12 13:15:13] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2024-10-12 13:15:13] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-pulse.css
+[2024-10-12 13:15:13] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\PRINCE~1\AppData\Local\Temp/670a76618cf65-0yYBYu.tmp to C:\xampp\htdocs\CobbyWorld/wp-content/uploads\simply-static\temp-files/simply-static-1-1728738804/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-pulse.css
+[2024-10-12 13:15:13] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-10-12 13:15:13] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2024-10-12 13:15:13] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-10-12 13:15:13] [class-ss-page.php:119] Checking Content Identical:84088f6762bfecd307665a6f1247c93308fbba56===. Value: FALSE
+[2024-10-12 13:15:14] [class-ss-fetch-urls-task.php:72] URL: http://localhost/cobbyWorld/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-pulse.min.css
+[2024-10-12 13:15:14] [class-ss-task.php:58] [PAGES STATUS] Remaining:8; Total: 881
+[2024-10-12 13:15:14] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-10-12 13:15:14] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\PRINCE~1\AppData\Local\Temp/670a766241f8b-EIGWnX.tmp
+[2024-10-12 13:15:14] [class-ss-page-handler.php:38] URL Prepared:http://localhost/cobbyWorld/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-pulse.min.css?simply_static_page=5488
+[2024-10-12 13:15:14] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/cobbyWorld/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-pulse.min.css?simply_static_page=5488
+[2024-10-12 13:15:14] [class-ss-url-fetcher.php:103] Filesize: 318 bytes
+[2024-10-12 13:15:14] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2024-10-12 13:15:14] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-pulse.min.css
+[2024-10-12 13:15:14] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\PRINCE~1\AppData\Local\Temp/670a766241f8b-EIGWnX.tmp to C:\xampp\htdocs\CobbyWorld/wp-content/uploads\simply-static\temp-files/simply-static-1-1728738804/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-pulse.min.css
+[2024-10-12 13:15:14] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-10-12 13:15:14] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2024-10-12 13:15:14] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-10-12 13:15:14] [class-ss-page.php:119] Checking Content Identical:f542c08918c035480e8de6785ec9d32336c23313===. Value: FALSE
+[2024-10-12 13:15:14] [class-ss-fetch-urls-task.php:72] URL: http://localhost/cobbyWorld/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-push.css
+[2024-10-12 13:15:14] [class-ss-task.php:58] [PAGES STATUS] Remaining:7; Total: 881
+[2024-10-12 13:15:14] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-10-12 13:15:14] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\PRINCE~1\AppData\Local\Temp/670a766297cc8-JPiMvj.tmp
+[2024-10-12 13:15:14] [class-ss-page-handler.php:38] URL Prepared:http://localhost/cobbyWorld/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-push.css?simply_static_page=5489
+[2024-10-12 13:15:14] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/cobbyWorld/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-push.css?simply_static_page=5489
+[2024-10-12 13:15:14] [class-ss-url-fetcher.php:103] Filesize: 349 bytes
+[2024-10-12 13:15:14] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2024-10-12 13:15:14] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-push.css
+[2024-10-12 13:15:14] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\PRINCE~1\AppData\Local\Temp/670a766297cc8-JPiMvj.tmp to C:\xampp\htdocs\CobbyWorld/wp-content/uploads\simply-static\temp-files/simply-static-1-1728738804/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-push.css
+[2024-10-12 13:15:14] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-10-12 13:15:15] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2024-10-12 13:15:15] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-10-12 13:15:15] [class-ss-page.php:119] Checking Content Identical:a04a848c0af699962fd62d4b837722b87b5972d0===. Value: FALSE
+[2024-10-12 13:15:15] [class-ss-fetch-urls-task.php:72] URL: http://localhost/cobbyWorld/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-push.min.css
+[2024-10-12 13:15:15] [class-ss-task.php:58] [PAGES STATUS] Remaining:6; Total: 881
+[2024-10-12 13:15:15] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-10-12 13:15:15] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\PRINCE~1\AppData\Local\Temp/670a76632b772-nzEvI6.tmp
+[2024-10-12 13:15:15] [class-ss-page-handler.php:38] URL Prepared:http://localhost/cobbyWorld/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-push.min.css?simply_static_page=5490
+[2024-10-12 13:15:15] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/cobbyWorld/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-push.min.css?simply_static_page=5490
+[2024-10-12 13:15:15] [class-ss-url-fetcher.php:103] Filesize: 306 bytes
+[2024-10-12 13:15:15] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2024-10-12 13:15:15] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-push.min.css
+[2024-10-12 13:15:15] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\PRINCE~1\AppData\Local\Temp/670a76632b772-nzEvI6.tmp to C:\xampp\htdocs\CobbyWorld/wp-content/uploads\simply-static\temp-files/simply-static-1-1728738804/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-push.min.css
+[2024-10-12 13:15:15] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-10-12 13:15:15] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2024-10-12 13:15:15] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-10-12 13:15:15] [class-ss-page.php:119] Checking Content Identical:c6724da9f417db70c6058a5cd803a3337627dfd5===. Value: FALSE
+[2024-10-12 13:15:15] [class-ss-fetch-urls-task.php:72] URL: http://localhost/cobbyWorld/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-rotate.css
+[2024-10-12 13:15:15] [class-ss-task.php:58] [PAGES STATUS] Remaining:5; Total: 881
+[2024-10-12 13:15:15] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-10-12 13:15:15] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\PRINCE~1\AppData\Local\Temp/670a766387816-H52fRm.tmp
+[2024-10-12 13:15:15] [class-ss-page-handler.php:38] URL Prepared:http://localhost/cobbyWorld/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-rotate.css?simply_static_page=5491
+[2024-10-12 13:15:15] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/cobbyWorld/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-rotate.css?simply_static_page=5491
+[2024-10-12 13:15:15] [class-ss-url-fetcher.php:103] Filesize: 228 bytes
+[2024-10-12 13:15:15] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2024-10-12 13:15:15] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-rotate.css
+[2024-10-12 13:15:15] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\PRINCE~1\AppData\Local\Temp/670a766387816-H52fRm.tmp to C:\xampp\htdocs\CobbyWorld/wp-content/uploads\simply-static\temp-files/simply-static-1-1728738804/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-rotate.css
+[2024-10-12 13:15:15] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-10-12 13:15:15] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2024-10-12 13:15:15] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-10-12 13:15:15] [class-ss-page.php:119] Checking Content Identical:9f1e798287c8823d02dec9596ef04b221642b844===. Value: FALSE
+[2024-10-12 13:15:15] [class-ss-fetch-urls-task.php:72] URL: http://localhost/cobbyWorld/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-rotate.min.css
+[2024-10-12 13:15:15] [class-ss-task.php:58] [PAGES STATUS] Remaining:4; Total: 881
+[2024-10-12 13:15:15] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-10-12 13:15:15] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\PRINCE~1\AppData\Local\Temp/670a7663bb9a0-FgLMfi.tmp
+[2024-10-12 13:15:15] [class-ss-page-handler.php:38] URL Prepared:http://localhost/cobbyWorld/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-rotate.min.css?simply_static_page=5492
+[2024-10-12 13:15:15] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/cobbyWorld/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-rotate.min.css?simply_static_page=5492
+[2024-10-12 13:15:15] [class-ss-url-fetcher.php:103] Filesize: 208 bytes
+[2024-10-12 13:15:15] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2024-10-12 13:15:15] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-rotate.min.css
+[2024-10-12 13:15:15] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\PRINCE~1\AppData\Local\Temp/670a7663bb9a0-FgLMfi.tmp to C:\xampp\htdocs\CobbyWorld/wp-content/uploads\simply-static\temp-files/simply-static-1-1728738804/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-rotate.min.css
+[2024-10-12 13:15:15] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-10-12 13:15:16] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2024-10-12 13:15:16] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-10-12 13:15:16] [class-ss-page.php:119] Checking Content Identical:bcacf78c3c86ae4f8cf95248b5859070327aa5e6===. Value: FALSE
+[2024-10-12 13:15:16] [class-ss-fetch-urls-task.php:72] URL: http://localhost/cobbyWorld/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-shrink.css
+[2024-10-12 13:15:16] [class-ss-task.php:58] [PAGES STATUS] Remaining:3; Total: 881
+[2024-10-12 13:15:16] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-10-12 13:15:16] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\PRINCE~1\AppData\Local\Temp/670a76643f395-zTeWRU.tmp
+[2024-10-12 13:15:16] [class-ss-page-handler.php:38] URL Prepared:http://localhost/cobbyWorld/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-shrink.css?simply_static_page=5493
+[2024-10-12 13:15:16] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/cobbyWorld/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-shrink.css?simply_static_page=5493
+[2024-10-12 13:15:16] [class-ss-url-fetcher.php:103] Filesize: 226 bytes
+[2024-10-12 13:15:16] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2024-10-12 13:15:16] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-shrink.css
+[2024-10-12 13:15:16] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\PRINCE~1\AppData\Local\Temp/670a76643f395-zTeWRU.tmp to C:\xampp\htdocs\CobbyWorld/wp-content/uploads\simply-static\temp-files/simply-static-1-1728738804/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-shrink.css
+[2024-10-12 13:15:16] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-10-12 13:15:16] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2024-10-12 13:15:16] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-10-12 13:15:16] [class-ss-page.php:119] Checking Content Identical:e356821711739bf18e2cca7d24b146096e2a6df7===. Value: FALSE
+[2024-10-12 13:15:16] [class-ss-fetch-urls-task.php:72] URL: http://localhost/cobbyWorld/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-shrink.min.css
+[2024-10-12 13:15:16] [class-ss-task.php:58] [PAGES STATUS] Remaining:2; Total: 881
+[2024-10-12 13:15:16] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-10-12 13:15:16] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\PRINCE~1\AppData\Local\Temp/670a7664b2245-p07j9l.tmp
+[2024-10-12 13:15:16] [class-ss-page-handler.php:38] URL Prepared:http://localhost/cobbyWorld/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-shrink.min.css?simply_static_page=5494
+[2024-10-12 13:15:16] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/cobbyWorld/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-shrink.min.css?simply_static_page=5494
+[2024-10-12 13:15:16] [class-ss-url-fetcher.php:103] Filesize: 205 bytes
+[2024-10-12 13:15:16] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2024-10-12 13:15:16] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-shrink.min.css
+[2024-10-12 13:15:16] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\PRINCE~1\AppData\Local\Temp/670a7664b2245-p07j9l.tmp to C:\xampp\htdocs\CobbyWorld/wp-content/uploads\simply-static\temp-files/simply-static-1-1728738804/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-shrink.min.css
+[2024-10-12 13:15:16] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-10-12 13:15:17] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2024-10-12 13:15:17] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-10-12 13:15:17] [class-ss-page.php:119] Checking Content Identical:d24239ce3368865de4cec69f92452f02efddf77e===. Value: FALSE
+[2024-10-12 13:15:17] [class-ss-fetch-urls-task.php:72] URL: http://localhost/cobbyWorld/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-sink.css
+[2024-10-12 13:15:17] [class-ss-task.php:58] [PAGES STATUS] Remaining:1; Total: 881
+[2024-10-12 13:15:17] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-10-12 13:15:17] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\PRINCE~1\AppData\Local\Temp/670a766556aa6-JTgtt8.tmp
+[2024-10-12 13:15:17] [class-ss-page-handler.php:38] URL Prepared:http://localhost/cobbyWorld/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-sink.css?simply_static_page=5495
+[2024-10-12 13:15:17] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/cobbyWorld/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-sink.css?simply_static_page=5495
+[2024-10-12 13:15:17] [class-ss-url-fetcher.php:103] Filesize: 262 bytes
+[2024-10-12 13:15:17] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2024-10-12 13:15:17] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-sink.css
+[2024-10-12 13:15:17] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\PRINCE~1\AppData\Local\Temp/670a766556aa6-JTgtt8.tmp to C:\xampp\htdocs\CobbyWorld/wp-content/uploads\simply-static\temp-files/simply-static-1-1728738804/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-sink.css
+[2024-10-12 13:15:17] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-10-12 13:15:17] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2024-10-12 13:15:17] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-10-12 13:15:17] [class-ss-page.php:119] Checking Content Identical:866924292c7de26caba765a1dca28dff940cc29c===. Value: FALSE
+[2024-10-12 13:15:17] [class-ss-task.php:44] Status message: [fetch_urls] Fetched 0 of 881 pages/files
+[2024-10-12 13:15:18] [class-ss-archive-creation-job.php:181] We're not done with the fetch_urls task yet
+[2024-10-12 13:15:23] [class-ss-archive-creation-job.php:136] Current task: fetch_urls
+[2024-10-12 13:15:23] [class-ss-archive-creation-job.php:153] Performing task: fetch_urls
+[2024-10-12 13:15:24] [class-ss-fetch-urls-task.php:69] Total pages: 895; Pages remaining: 845
+[2024-10-12 13:15:24] [class-ss-fetch-urls-task.php:72] URL: http://localhost/cobbyWorld/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-sink.min.css
+[2024-10-12 13:15:24] [class-ss-task.php:58] [PAGES STATUS] Remaining:50; Total: 895
+[2024-10-12 13:15:24] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-10-12 13:15:24] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\PRINCE~1\AppData\Local\Temp/670a766c237a4-WyxV3o.tmp
+[2024-10-12 13:15:24] [class-ss-page-handler.php:38] URL Prepared:http://localhost/cobbyWorld/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-sink.min.css?simply_static_page=5496
+[2024-10-12 13:15:24] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/cobbyWorld/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-sink.min.css?simply_static_page=5496
+[2024-10-12 13:15:24] [class-ss-url-fetcher.php:103] Filesize: 239 bytes
+[2024-10-12 13:15:24] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2024-10-12 13:15:24] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-sink.min.css
+[2024-10-12 13:15:24] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\PRINCE~1\AppData\Local\Temp/670a766c237a4-WyxV3o.tmp to C:\xampp\htdocs\CobbyWorld/wp-content/uploads\simply-static\temp-files/simply-static-1-1728738804/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-sink.min.css
+[2024-10-12 13:15:24] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-10-12 13:15:24] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2024-10-12 13:15:24] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-10-12 13:15:24] [class-ss-page.php:119] Checking Content Identical:d1c62cd630b495a3e6132cdb51cc3efc2f7c40f5===. Value: FALSE
+[2024-10-12 13:15:24] [class-ss-fetch-urls-task.php:72] URL: http://localhost/cobbyWorld/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-skew-backward.css
+[2024-10-12 13:15:24] [class-ss-task.php:58] [PAGES STATUS] Remaining:49; Total: 895
+[2024-10-12 13:15:24] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-10-12 13:15:24] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\PRINCE~1\AppData\Local\Temp/670a766c6b372-SW00pj.tmp
+[2024-10-12 13:15:24] [class-ss-page-handler.php:38] URL Prepared:http://localhost/cobbyWorld/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-skew-backward.css?simply_static_page=5497
+[2024-10-12 13:15:24] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/cobbyWorld/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-skew-backward.css?simply_static_page=5497
+[2024-10-12 13:15:24] [class-ss-url-fetcher.php:103] Filesize: 282 bytes
+[2024-10-12 13:15:24] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2024-10-12 13:15:24] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-skew-backward.css
+[2024-10-12 13:15:24] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\PRINCE~1\AppData\Local\Temp/670a766c6b372-SW00pj.tmp to C:\xampp\htdocs\CobbyWorld/wp-content/uploads\simply-static\temp-files/simply-static-1-1728738804/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-skew-backward.css
+[2024-10-12 13:15:24] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-10-12 13:15:24] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2024-10-12 13:15:24] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-10-12 13:15:24] [class-ss-page.php:119] Checking Content Identical:e7e1c1450dd91120c7356819fa50c86e98d797c9===. Value: FALSE
+[2024-10-12 13:15:24] [class-ss-fetch-urls-task.php:72] URL: http://localhost/cobbyWorld/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-skew-backward.min.css
+[2024-10-12 13:15:24] [class-ss-task.php:58] [PAGES STATUS] Remaining:48; Total: 895
+[2024-10-12 13:15:24] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-10-12 13:15:24] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\PRINCE~1\AppData\Local\Temp/670a766cb8993-JCuHjc.tmp
+[2024-10-12 13:15:24] [class-ss-page-handler.php:38] URL Prepared:http://localhost/cobbyWorld/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-skew-backward.min.css?simply_static_page=5498
+[2024-10-12 13:15:24] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/cobbyWorld/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-skew-backward.min.css?simply_static_page=5498
+[2024-10-12 13:15:24] [class-ss-url-fetcher.php:103] Filesize: 259 bytes
+[2024-10-12 13:15:24] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2024-10-12 13:15:24] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-skew-backward.min.css
+[2024-10-12 13:15:24] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\PRINCE~1\AppData\Local\Temp/670a766cb8993-JCuHjc.tmp to C:\xampp\htdocs\CobbyWorld/wp-content/uploads\simply-static\temp-files/simply-static-1-1728738804/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-skew-backward.min.css
+[2024-10-12 13:15:24] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-10-12 13:15:24] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2024-10-12 13:15:24] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-10-12 13:15:24] [class-ss-page.php:119] Checking Content Identical:31bb8cd8bcce249832de81149d61da49636820b5===. Value: FALSE
+[2024-10-12 13:15:25] [class-ss-fetch-urls-task.php:72] URL: http://localhost/cobbyWorld/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-skew-forward.css
+[2024-10-12 13:15:25] [class-ss-task.php:58] [PAGES STATUS] Remaining:47; Total: 895
+[2024-10-12 13:15:25] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-10-12 13:15:25] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\PRINCE~1\AppData\Local\Temp/670a766d0f23e-8arUOg.tmp
+[2024-10-12 13:15:25] [class-ss-page-handler.php:38] URL Prepared:http://localhost/cobbyWorld/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-skew-forward.css?simply_static_page=5499
+[2024-10-12 13:15:25] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/cobbyWorld/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-skew-forward.css?simply_static_page=5499
+[2024-10-12 13:15:25] [class-ss-url-fetcher.php:103] Filesize: 279 bytes
+[2024-10-12 13:15:25] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2024-10-12 13:15:25] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-skew-forward.css
+[2024-10-12 13:15:25] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\PRINCE~1\AppData\Local\Temp/670a766d0f23e-8arUOg.tmp to C:\xampp\htdocs\CobbyWorld/wp-content/uploads\simply-static\temp-files/simply-static-1-1728738804/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-skew-forward.css
+[2024-10-12 13:15:25] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-10-12 13:15:25] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2024-10-12 13:15:25] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-10-12 13:15:25] [class-ss-page.php:119] Checking Content Identical:3a03840cb39ba07c792a6c4d01ccf7e5eb255d73===. Value: FALSE
+[2024-10-12 13:15:25] [class-ss-fetch-urls-task.php:72] URL: http://localhost/cobbyWorld/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-skew-forward.min.css
+[2024-10-12 13:15:25] [class-ss-task.php:58] [PAGES STATUS] Remaining:46; Total: 895
+[2024-10-12 13:15:25] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-10-12 13:15:25] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\PRINCE~1\AppData\Local\Temp/670a766d4c2e3-qSmweZ.tmp
+[2024-10-12 13:15:25] [class-ss-page-handler.php:38] URL Prepared:http://localhost/cobbyWorld/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-skew-forward.min.css?simply_static_page=5500
+[2024-10-12 13:15:25] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/cobbyWorld/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-skew-forward.min.css?simply_static_page=5500
+[2024-10-12 13:15:25] [class-ss-url-fetcher.php:103] Filesize: 256 bytes
+[2024-10-12 13:15:25] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2024-10-12 13:15:25] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-skew-forward.min.css
+[2024-10-12 13:15:25] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\PRINCE~1\AppData\Local\Temp/670a766d4c2e3-qSmweZ.tmp to C:\xampp\htdocs\CobbyWorld/wp-content/uploads\simply-static\temp-files/simply-static-1-1728738804/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-skew-forward.min.css
+[2024-10-12 13:15:25] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-10-12 13:15:25] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2024-10-12 13:15:25] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-10-12 13:15:25] [class-ss-page.php:119] Checking Content Identical:c6dd2b6588e903848aea0d9198456b488080c92e===. Value: FALSE
+[2024-10-12 13:15:25] [class-ss-fetch-urls-task.php:72] URL: http://localhost/cobbyWorld/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-skew.css
+[2024-10-12 13:15:25] [class-ss-task.php:58] [PAGES STATUS] Remaining:45; Total: 895
+[2024-10-12 13:15:25] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-10-12 13:15:25] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\PRINCE~1\AppData\Local\Temp/670a766d866c1-Ze2OJY.tmp
+[2024-10-12 13:15:25] [class-ss-page-handler.php:38] URL Prepared:http://localhost/cobbyWorld/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-skew.css?simply_static_page=5501
+[2024-10-12 13:15:25] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/cobbyWorld/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-skew.css?simply_static_page=5501
+[2024-10-12 13:15:25] [class-ss-url-fetcher.php:103] Filesize: 220 bytes
+[2024-10-12 13:15:25] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2024-10-12 13:15:25] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-skew.css
+[2024-10-12 13:15:25] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\PRINCE~1\AppData\Local\Temp/670a766d866c1-Ze2OJY.tmp to C:\xampp\htdocs\CobbyWorld/wp-content/uploads\simply-static\temp-files/simply-static-1-1728738804/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-skew.css
+[2024-10-12 13:15:25] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-10-12 13:15:25] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2024-10-12 13:15:25] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-10-12 13:15:25] [class-ss-page.php:119] Checking Content Identical:059c5922786a2bcd6c4de27cdf4f4420bea7ca8e===. Value: FALSE
+[2024-10-12 13:15:25] [class-ss-fetch-urls-task.php:72] URL: http://localhost/cobbyWorld/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-skew.min.css
+[2024-10-12 13:15:25] [class-ss-task.php:58] [PAGES STATUS] Remaining:44; Total: 895
+[2024-10-12 13:15:25] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-10-12 13:15:25] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\PRINCE~1\AppData\Local\Temp/670a766dd2518-v8FO0Z.tmp
+[2024-10-12 13:15:25] [class-ss-page-handler.php:38] URL Prepared:http://localhost/cobbyWorld/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-skew.min.css?simply_static_page=5502
+[2024-10-12 13:15:25] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/cobbyWorld/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-skew.min.css?simply_static_page=5502
+[2024-10-12 13:15:25] [class-ss-url-fetcher.php:103] Filesize: 200 bytes
+[2024-10-12 13:15:25] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2024-10-12 13:15:25] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-skew.min.css
+[2024-10-12 13:15:25] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\PRINCE~1\AppData\Local\Temp/670a766dd2518-v8FO0Z.tmp to C:\xampp\htdocs\CobbyWorld/wp-content/uploads\simply-static\temp-files/simply-static-1-1728738804/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-skew.min.css
+[2024-10-12 13:15:26] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-10-12 13:15:26] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2024-10-12 13:15:26] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-10-12 13:15:26] [class-ss-page.php:119] Checking Content Identical:e42e47575da5d3b6d0717084897b232dc49a4bb4===. Value: FALSE
+[2024-10-12 13:15:26] [class-ss-fetch-urls-task.php:72] URL: http://localhost/cobbyWorld/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-wobble-bottom.css
+[2024-10-12 13:15:26] [class-ss-task.php:58] [PAGES STATUS] Remaining:43; Total: 895
+[2024-10-12 13:15:26] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-10-12 13:15:26] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\PRINCE~1\AppData\Local\Temp/670a766e8527b-saOZAr.tmp
+[2024-10-12 13:15:26] [class-ss-page-handler.php:38] URL Prepared:http://localhost/cobbyWorld/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-wobble-bottom.css?simply_static_page=5503
+[2024-10-12 13:15:26] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/cobbyWorld/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-wobble-bottom.css?simply_static_page=5503
+[2024-10-12 13:15:26] [class-ss-url-fetcher.php:103] Filesize: 620 bytes
+[2024-10-12 13:15:26] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2024-10-12 13:15:26] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-wobble-bottom.css
+[2024-10-12 13:15:26] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\PRINCE~1\AppData\Local\Temp/670a766e8527b-saOZAr.tmp to C:\xampp\htdocs\CobbyWorld/wp-content/uploads\simply-static\temp-files/simply-static-1-1728738804/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-wobble-bottom.css
+[2024-10-12 13:15:26] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-10-12 13:15:26] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2024-10-12 13:15:26] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-10-12 13:15:26] [class-ss-page.php:119] Checking Content Identical:de0499a5bbbeedcd2175caa3b726fd27a6cd3664===. Value: FALSE
+[2024-10-12 13:15:26] [class-ss-fetch-urls-task.php:72] URL: http://localhost/cobbyWorld/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-wobble-bottom.min.css
+[2024-10-12 13:15:26] [class-ss-task.php:58] [PAGES STATUS] Remaining:42; Total: 895
+[2024-10-12 13:15:26] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-10-12 13:15:26] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\PRINCE~1\AppData\Local\Temp/670a766eb35c1-Atf4rL.tmp
+[2024-10-12 13:15:26] [class-ss-page-handler.php:38] URL Prepared:http://localhost/cobbyWorld/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-wobble-bottom.min.css?simply_static_page=5504
+[2024-10-12 13:15:26] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/cobbyWorld/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-wobble-bottom.min.css?simply_static_page=5504
+[2024-10-12 13:15:26] [class-ss-url-fetcher.php:103] Filesize: 532 bytes
+[2024-10-12 13:15:26] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2024-10-12 13:15:26] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-wobble-bottom.min.css
+[2024-10-12 13:15:26] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\PRINCE~1\AppData\Local\Temp/670a766eb35c1-Atf4rL.tmp to C:\xampp\htdocs\CobbyWorld/wp-content/uploads\simply-static\temp-files/simply-static-1-1728738804/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-wobble-bottom.min.css
+[2024-10-12 13:15:26] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-10-12 13:15:26] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2024-10-12 13:15:26] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-10-12 13:15:26] [class-ss-page.php:119] Checking Content Identical:8aa52933b8f30eed412978d4df9d66102c7b91f5===. Value: FALSE
+[2024-10-12 13:15:26] [class-ss-fetch-urls-task.php:72] URL: http://localhost/cobbyWorld/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-wobble-horizontal.css
+[2024-10-12 13:15:26] [class-ss-task.php:58] [PAGES STATUS] Remaining:41; Total: 895
+[2024-10-12 13:15:26] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-10-12 13:15:26] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\PRINCE~1\AppData\Local\Temp/670a766ed7e12-l2U5oD.tmp
+[2024-10-12 13:15:26] [class-ss-page-handler.php:38] URL Prepared:http://localhost/cobbyWorld/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-wobble-horizontal.css?simply_static_page=5505
+[2024-10-12 13:15:26] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/cobbyWorld/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-wobble-horizontal.css?simply_static_page=5505
+[2024-10-12 13:15:26] [class-ss-url-fetcher.php:103] Filesize: 602 bytes
+[2024-10-12 13:15:26] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2024-10-12 13:15:26] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-wobble-horizontal.css
+[2024-10-12 13:15:26] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\PRINCE~1\AppData\Local\Temp/670a766ed7e12-l2U5oD.tmp to C:\xampp\htdocs\CobbyWorld/wp-content/uploads\simply-static\temp-files/simply-static-1-1728738804/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-wobble-horizontal.css
+[2024-10-12 13:15:26] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-10-12 13:15:27] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2024-10-12 13:15:27] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-10-12 13:15:27] [class-ss-page.php:119] Checking Content Identical:1a9fa312bfcf12e1fbbe132dc805e37e0fbd4f68===. Value: FALSE
+[2024-10-12 13:15:27] [class-ss-fetch-urls-task.php:72] URL: http://localhost/cobbyWorld/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-wobble-horizontal.min.css
+[2024-10-12 13:15:27] [class-ss-task.php:58] [PAGES STATUS] Remaining:40; Total: 895
+[2024-10-12 13:15:27] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-10-12 13:15:27] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\PRINCE~1\AppData\Local\Temp/670a766f16696-09Z20L.tmp
+[2024-10-12 13:15:27] [class-ss-page-handler.php:38] URL Prepared:http://localhost/cobbyWorld/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-wobble-horizontal.min.css?simply_static_page=5506
+[2024-10-12 13:15:27] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/cobbyWorld/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-wobble-horizontal.min.css?simply_static_page=5506
+[2024-10-12 13:15:27] [class-ss-url-fetcher.php:103] Filesize: 521 bytes
+[2024-10-12 13:15:27] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2024-10-12 13:15:27] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-wobble-horizontal.min.css
+[2024-10-12 13:15:27] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\PRINCE~1\AppData\Local\Temp/670a766f16696-09Z20L.tmp to C:\xampp\htdocs\CobbyWorld/wp-content/uploads\simply-static\temp-files/simply-static-1-1728738804/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-wobble-horizontal.min.css
+[2024-10-12 13:15:27] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-10-12 13:15:27] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2024-10-12 13:15:27] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-10-12 13:15:27] [class-ss-page.php:119] Checking Content Identical:66a3ef95fd6ab4bb4740ded118d113a1b5b0aa34===. Value: FALSE
+[2024-10-12 13:15:27] [class-ss-fetch-urls-task.php:72] URL: http://localhost/cobbyWorld/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-wobble-skew.css
+[2024-10-12 13:15:27] [class-ss-task.php:58] [PAGES STATUS] Remaining:39; Total: 895
+[2024-10-12 13:15:27] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-10-12 13:15:27] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\PRINCE~1\AppData\Local\Temp/670a766f724f0-cesqtA.tmp
+[2024-10-12 13:15:27] [class-ss-page-handler.php:38] URL Prepared:http://localhost/cobbyWorld/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-wobble-skew.css?simply_static_page=5507
+[2024-10-12 13:15:27] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/cobbyWorld/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-wobble-skew.css?simply_static_page=5507
+[2024-10-12 13:15:27] [class-ss-url-fetcher.php:103] Filesize: 544 bytes
+[2024-10-12 13:15:27] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2024-10-12 13:15:27] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-wobble-skew.css
+[2024-10-12 13:15:27] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\PRINCE~1\AppData\Local\Temp/670a766f724f0-cesqtA.tmp to C:\xampp\htdocs\CobbyWorld/wp-content/uploads\simply-static\temp-files/simply-static-1-1728738804/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-wobble-skew.css
+[2024-10-12 13:15:27] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-10-12 13:15:27] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2024-10-12 13:15:27] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-10-12 13:15:27] [class-ss-page.php:119] Checking Content Identical:df04d31d5f7061fe740d25a3ff05bb35fcbdaaa4===. Value: FALSE
+[2024-10-12 13:15:27] [class-ss-fetch-urls-task.php:72] URL: http://localhost/cobbyWorld/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-wobble-skew.min.css
+[2024-10-12 13:15:27] [class-ss-task.php:58] [PAGES STATUS] Remaining:38; Total: 895
+[2024-10-12 13:15:27] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-10-12 13:15:27] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\PRINCE~1\AppData\Local\Temp/670a766fb2488-S7VJ10.tmp
+[2024-10-12 13:15:27] [class-ss-page-handler.php:38] URL Prepared:http://localhost/cobbyWorld/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-wobble-skew.min.css?simply_static_page=5508
+[2024-10-12 13:15:27] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/cobbyWorld/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-wobble-skew.min.css?simply_static_page=5508
+[2024-10-12 13:15:27] [class-ss-url-fetcher.php:103] Filesize: 463 bytes
+[2024-10-12 13:15:27] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2024-10-12 13:15:27] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-wobble-skew.min.css
+[2024-10-12 13:15:27] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\PRINCE~1\AppData\Local\Temp/670a766fb2488-S7VJ10.tmp to C:\xampp\htdocs\CobbyWorld/wp-content/uploads\simply-static\temp-files/simply-static-1-1728738804/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-wobble-skew.min.css
+[2024-10-12 13:15:27] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-10-12 13:15:28] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2024-10-12 13:15:28] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-10-12 13:15:28] [class-ss-page.php:119] Checking Content Identical:96f803bff8991287dc54118ed2e11ed8b0bae4c2===. Value: FALSE
+[2024-10-12 13:15:28] [class-ss-fetch-urls-task.php:72] URL: http://localhost/cobbyWorld/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-wobble-to-bottom-right.css
+[2024-10-12 13:15:28] [class-ss-task.php:58] [PAGES STATUS] Remaining:37; Total: 895
+[2024-10-12 13:15:28] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-10-12 13:15:28] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\PRINCE~1\AppData\Local\Temp/670a7670432f9-b1GfNB.tmp
+[2024-10-12 13:15:28] [class-ss-page-handler.php:38] URL Prepared:http://localhost/cobbyWorld/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-wobble-to-bottom-right.css?simply_static_page=5509
+[2024-10-12 13:15:28] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/cobbyWorld/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-wobble-to-bottom-right.css?simply_static_page=5509
+[2024-10-12 13:15:28] [class-ss-url-fetcher.php:103] Filesize: 651 bytes
+[2024-10-12 13:15:28] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2024-10-12 13:15:28] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-wobble-to-bottom-right.css
+[2024-10-12 13:15:28] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\PRINCE~1\AppData\Local\Temp/670a7670432f9-b1GfNB.tmp to C:\xampp\htdocs\CobbyWorld/wp-content/uploads\simply-static\temp-files/simply-static-1-1728738804/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-wobble-to-bottom-right.css
+[2024-10-12 13:15:28] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-10-12 13:15:28] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2024-10-12 13:15:28] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-10-12 13:15:28] [class-ss-page.php:119] Checking Content Identical:4bc43313c542b3569b0303684c6b183252378d7e===. Value: FALSE
+[2024-10-12 13:15:28] [class-ss-fetch-urls-task.php:72] URL: http://localhost/cobbyWorld/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-wobble-to-bottom-right.min.css
+[2024-10-12 13:15:28] [class-ss-task.php:58] [PAGES STATUS] Remaining:36; Total: 895
+[2024-10-12 13:15:29] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-10-12 13:15:29] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\PRINCE~1\AppData\Local\Temp/670a767123ad6-9XXkxP.tmp
+[2024-10-12 13:15:29] [class-ss-page-handler.php:38] URL Prepared:http://localhost/cobbyWorld/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-wobble-to-bottom-right.min.css?simply_static_page=5510
+[2024-10-12 13:15:29] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/cobbyWorld/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-wobble-to-bottom-right.min.css?simply_static_page=5510
+[2024-10-12 13:15:29] [class-ss-url-fetcher.php:103] Filesize: 564 bytes
+[2024-10-12 13:15:29] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2024-10-12 13:15:29] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-wobble-to-bottom-right.min.css
+[2024-10-12 13:15:29] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\PRINCE~1\AppData\Local\Temp/670a767123ad6-9XXkxP.tmp to C:\xampp\htdocs\CobbyWorld/wp-content/uploads\simply-static\temp-files/simply-static-1-1728738804/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-wobble-to-bottom-right.min.css
+[2024-10-12 13:15:29] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-10-12 13:15:29] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2024-10-12 13:15:29] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-10-12 13:15:29] [class-ss-page.php:119] Checking Content Identical:50cd92878ba8d354513ec7b62b54d5b63f91a1f8===. Value: FALSE
+[2024-10-12 13:15:29] [class-ss-fetch-urls-task.php:72] URL: http://localhost/cobbyWorld/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-wobble-to-top-right.css
+[2024-10-12 13:15:29] [class-ss-task.php:58] [PAGES STATUS] Remaining:35; Total: 895
+[2024-10-12 13:15:29] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-10-12 13:15:29] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\PRINCE~1\AppData\Local\Temp/670a7671c2ef1-2nz00I.tmp
+[2024-10-12 13:15:29] [class-ss-page-handler.php:38] URL Prepared:http://localhost/cobbyWorld/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-wobble-to-top-right.css?simply_static_page=5511
+[2024-10-12 13:15:29] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/cobbyWorld/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-wobble-to-top-right.css?simply_static_page=5511
+[2024-10-12 13:15:29] [class-ss-url-fetcher.php:103] Filesize: 637 bytes
+[2024-10-12 13:15:29] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2024-10-12 13:15:29] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-wobble-to-top-right.css
+[2024-10-12 13:15:29] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\PRINCE~1\AppData\Local\Temp/670a7671c2ef1-2nz00I.tmp to C:\xampp\htdocs\CobbyWorld/wp-content/uploads\simply-static\temp-files/simply-static-1-1728738804/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-wobble-to-top-right.css
+[2024-10-12 13:15:30] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-10-12 13:15:30] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2024-10-12 13:15:30] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-10-12 13:15:30] [class-ss-page.php:119] Checking Content Identical:21597536c64c5b44930d250b139284a6a78ee1d5===. Value: FALSE
+[2024-10-12 13:15:30] [class-ss-fetch-urls-task.php:72] URL: http://localhost/cobbyWorld/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-wobble-to-top-right.min.css
+[2024-10-12 13:15:30] [class-ss-task.php:58] [PAGES STATUS] Remaining:34; Total: 895
+[2024-10-12 13:15:31] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-10-12 13:15:31] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\PRINCE~1\AppData\Local\Temp/670a767318ab9-eOPsfq.tmp
+[2024-10-12 13:15:31] [class-ss-page-handler.php:38] URL Prepared:http://localhost/cobbyWorld/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-wobble-to-top-right.min.css?simply_static_page=5512
+[2024-10-12 13:15:31] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/cobbyWorld/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-wobble-to-top-right.min.css?simply_static_page=5512
+[2024-10-12 13:15:31] [class-ss-url-fetcher.php:103] Filesize: 550 bytes
+[2024-10-12 13:15:31] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2024-10-12 13:15:31] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-wobble-to-top-right.min.css
+[2024-10-12 13:15:31] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\PRINCE~1\AppData\Local\Temp/670a767318ab9-eOPsfq.tmp to C:\xampp\htdocs\CobbyWorld/wp-content/uploads\simply-static\temp-files/simply-static-1-1728738804/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-wobble-to-top-right.min.css
+[2024-10-12 13:15:31] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-10-12 13:15:31] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2024-10-12 13:15:31] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-10-12 13:15:31] [class-ss-page.php:119] Checking Content Identical:20dafa790f0dcf626da53e8e11470f7bb6838d77===. Value: FALSE
+[2024-10-12 13:15:31] [class-ss-fetch-urls-task.php:72] URL: http://localhost/cobbyWorld/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-wobble-top.css
+[2024-10-12 13:15:31] [class-ss-task.php:58] [PAGES STATUS] Remaining:33; Total: 895
+[2024-10-12 13:15:31] [class-ss-fetch-urls-task.php:83] URL is not being excluded
+[2024-10-12 13:15:31] [class-ss-url-fetcher.php:94] Fetching URL and saving it to: C:\Users\PRINCE~1\AppData\Local\Temp/670a7673927d5-yfzELJ.tmp
+[2024-10-12 13:15:31] [class-ss-page-handler.php:38] URL Prepared:http://localhost/cobbyWorld/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-wobble-top.css?simply_static_page=5513
+[2024-10-12 13:15:31] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/cobbyWorld/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-wobble-top.css?simply_static_page=5513
+[2024-10-12 13:15:31] [class-ss-url-fetcher.php:103] Filesize: 602 bytes
+[2024-10-12 13:15:31] [class-ss-url-fetcher.php:119] http_status_code: 200 | content_type: text/css
+[2024-10-12 13:15:31] [class-ss-url-fetcher.php:233] New filename for static page: /wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-wobble-top.css
+[2024-10-12 13:15:31] [class-ss-url-fetcher.php:143] Renaming temp file from C:\Users\PRINCE~1\AppData\Local\Temp/670a7673927d5-yfzELJ.tmp to C:\xampp\htdocs\CobbyWorld/wp-content/uploads\simply-static\temp-files/simply-static-1-1728738804/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-wobble-top.css
+[2024-10-12 13:15:31] [class-ss-fetch-urls-task.php:152] Extracting URLs and replacing URLs in the static file
+[2024-10-12 13:15:31] [class-ss-fetch-urls-task.php:159] Adding 0 URLs to the queue
+[2024-10-12 13:15:31] [class-ss-fetch-urls-task.php:170] We're saving this URL; keeping the static file
+[2024-10-12 13:15:31] [class-ss-page.php:119] Checking Content Identical:3c6aecbbb89c541846218262e973f52e4ecb9a00===. Value: FALSE
