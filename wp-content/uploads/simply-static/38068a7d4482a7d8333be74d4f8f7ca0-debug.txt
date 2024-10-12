@@ -14259,3 +14259,11 @@ _type: text/css
 [2024-10-12 18:09:59] [class-ss-archive-creation-job.php:232] The queue isn't empty; overwriting current task with a cancel task
 [2024-10-12 18:10:04] [class-ss-archive-creation-job.php:384] Error: (1) Maximum execution time of 120 seconds exceeded in <b>C:\xampp\htdocs\CobbyWorld\wp-includes\Requests\src\Transport\Curl.php</b> on line <b>510</b>
 [2024-10-12 18:10:04] [class-ss-archive-creation-job.php:324] Status message: [error] Error: (1) Maximum execution time of 120 seconds exceeded in <b>C:\xampp\htdocs\CobbyWorld\wp-includes\Requests\src\Transport\Curl.php</b> on line <b>510</b>
+[2024-10-12 18:10:09] [class-ss-archive-creation-job.php:136] Current task: cancel
+[2024-10-12 18:10:09] [class-ss-archive-creation-job.php:153] Performing task: cancel
+[2024-10-12 18:10:09] [class-ss-task.php:44] Status message: [cancel] Cancelling job
+[2024-10-12 18:10:10] [class-ss-wrapup-task.php:22] Deleting temporary files
+[2024-10-12 18:10:10] [class-ss-task.php:44] Status message: [wrapup] Wrapping up
+[2024-10-12 18:10:10] [class-ss-archive-creation-job.php:170] This task is done and there are no more tasks, time to complete the job
+[2024-10-12 18:10:10] [class-ss-archive-creation-job.php:197] Completing the job
+[2024-10-12 18:10:10] [class-ss-archive-creation-job.php:324] Status message: [done] Done! Finished in 00:14:10
